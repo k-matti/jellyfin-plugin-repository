@@ -5,7 +5,7 @@
     "description": "Sends sms notifications via selected service.",
     "overview": "Sends sms notifications",
     "owner": "k-matti",
-    "category": "Metadata",
+    "category": "Notifications",
     "versions": [
       {
         "version": "1.0.1.0",

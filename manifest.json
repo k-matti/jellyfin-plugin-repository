@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "47816a0e-e69c-44e0-ac7e-f37b134e088f",
+    "name": "SMS notification",
+    "description": "Sends sms notifications via selected service.",
+    "overview": "Sends sms notifications",
+    "owner": "k-matti",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.1.0",
+        "changelog": "",
+        "targetAbi": "10.7.2.0",
+        "sourceUrl": "https://github.com/k-matti/jellyfin-plugin-sms/releases/download/v1.0.1/sms-notifications_1.0.1.0.zip",
+        "checksum": "93e969adeba1050423fc8817ed3c36f8",
+        "timestamp": "0001-01-01T00:00:00.0000000Z"
+      }
+    ]
+  }
+]

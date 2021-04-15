@@ -17,7 +17,7 @@
       },
       {
         "version": "1.0.1.0",
-        "changelog": "",
+        "changelog": "initial release",
         "targetAbi": "10.7.2.0",
         "sourceUrl": "https://github.com/k-matti/jellyfin-plugin-sms/releases/download/v1.0.1.0/sms-notifications_1.0.1.0.zip",
         "checksum": "9c33e86071206d6d142d58579e4de825",
@@ -35,7 +35,7 @@
     "versions": [
       {
         "version": "1.0.1.0",
-        "changelog": "",
+        "changelog": "initial release",
         "targetAbi": "10.7.2.0",
         "sourceUrl": "https://github.com/k-matti/jellyfin-plugin-napi/releases/download/v1.0.1.0/napisub_1.0.1.0.zip",
         "checksum": "7e462432e43267952de5ef26a1df431c",
